@@ -23,8 +23,7 @@ body {
 <iframe height="100%" width="100%" frameborder="0" style="width: 100%" src="https://embed.scalafiddle.io/embed?sfid=VwQQF3h/31&theme=dark&layout=h40"></iframe>
 <script type="text/javascript">
 	window.addEventListener( "message", function(e){
-		console.log(e)
-		if(e.origin == "https://embed.scalafiddle.io"){
+		if(e.data.substr(0,4) == "http"){
     		window.location.href = e.data  //navigates to newpage.html
 		}
 }, false)
