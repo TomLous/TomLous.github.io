@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/tomlous
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tomlous.github.io
+  * I am tomlous (https://keybase.io/tomlous) on keybase.
+  * I have a public key with fingerprint D0FF AD94 B8A4 6A77 4B91  3A43 575C 27AD 123A 3FF5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012086d6104aa49a7e875ef266998924a5ae91440aa27040653d7590c1664ffb9bea0a",
+      "fingerprint": "d0ffad94b8a46a774b913a43575c27ad123a3ff5",
+      "host": "keybase.io",
+      "key_id": "575c27ad123a3ff5",
+      "kid": "010168fb16cc1e359879ef9646b3cf402bc152ad2f6d1c991bc6664c40d6f1f0e18c0a",
+      "uid": "875fcaffe72b26ec395e6ed333cab119",
+      "username": "tomlous"
+    },
+    "service": {
+      "hostname": "tomlous.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1502118878,
+  "expire_in": 157680000,
+  "prev": "b648ea2ad0ee69e9a2b525a39b6eb8a999640c8d4ac23c701d5593c2bfa014c6",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0
+Comment: [Send me PGP mails]
+
+owFtUm1QVFUYXj6SWIIFhFEMZ+q6UAiL99yPc+9d/BrKEsNozCQEh86999zlDrC7
+7F4gQkfCTHCkUQKlJDGXaWCcFCyaaoxqnATHtIIBlw+BUQcIS7IJPxiR7lL+aKbz
+58x53+d5zvO85xwMDTAY/TJznvk00rpuxu/ir6Ihq2rPtXJCdMhlhLWcyMcLGy6Q
+sVvLzVdlwkqQgCJ5KENAMggxAuIwz7FYoSAUBF6gGMQiLACGIRGiOJIhIUvLHCuQ
+EoCQURRREDEiEZFEKKrdhl1Ol2rXdFmZVBQkC4zIIwYijmNEAdCIoVmOlSgOyYCi
+Ea0orE7Mc7h9DN2ciNw4WXXoNf2Qu2Dvf/CPfJMA8ooIoCQBTLMCzwlYESADRVpS
+GJISJcBSSKYUKANJEIAoQd2xxJAyVIBCYsBLC76LF+T00IqEFAVzlEhBLNECiyGW
+aZqWkAiA4AO6scuOCrGO1hyFBY5iN7EridCLJaqEfXP1BfkvINmmannF4j+ZnC6H
+5pAcBXo7T9OcbquPrpU5ffhSLOb+q5QrqnZZn6XOKMEut+qwE1agIyVN9UkDlqQA
+4HmOTyLwm07VhXNVH4LlIE/qy3cPLtElRcjs4DHSR0BiDAUsIEpkKRbRggix/iyC
+oA+LlHiZQRJFSxwJZJYVaIkSFUQCRoKEL1yR3aGLA90osumibtVmR1qxCxO7jNX+
+sYEGP6Nh0WP+vm9mMAaHP/p7LY2m+Yz4pmXVO0HR28wb1V7P9j5op3eflodfDlp/
+feWryyKi77YHr1izr3vJQGXpMIi7e2fw1PgJJoprNd9MXlNy2DIwYeO84OiDzlLL
+bEyK+vMHvF99e8jUmUUk4T22MvhGu+G1ji2dOcfMslYz+NJv2bf7hyo7V90zX677
+6MbrR+IsydagnhcbeEt4zRJX4vXuisUZs4lTlWltCc3ehJPv5nWtDUzv3Rew4nKQ
+yb/6M+rW+QmD2bNYmunpa3wu5nTYd5e64gYKzs1MTWaN7U283fTN2bmWoYKQ8uWR
+8fyGtojJ1ZWHQlOdXWkTclLd8dTkmE+29XiWinuOK8YDdffLG229FzpC42pXf7E2
+Ie2F59G1P7V3vh4258X+wVtyRr9svZLWHPZU9BH7hMEU3mdy3jRFvd979lx6efCJ
+oqwtHd+XNaZnhdR0R67bfKumDDXUXC2NrT3qSdl0dZZzxq8Pq9pq3xyauZXw7Hyw
+/0pA/r0PtyvjJwufGDXHZJx6fOTJC6tsOXPdYwfEounRTcbf5/XeWKbhfFCTd3+3
+mxdLD2oP6/d66PSRZzNNHx+a8C411d8vu9M8vnHDRMTFRPTKjo2eH2lHf+qk5Ux2
+RFX99FAiUkMqplu+eqvt0sOBlBHiPamrcf7pn2p3c7amz7fV//LXaGvFXHbD8n77
+4OHWHzqior+1BU6WgL8B
+=seKw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomlous
+
+==================================================================
